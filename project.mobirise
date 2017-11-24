@@ -1,0 +1,1333 @@
+{
+  "settings": {
+    "name": "24Seven Taxi Dispatch - Orlando's 24Hour Taxi Service",
+    "currentPage": "index.html",
+    "theme": {
+      "name": "mobirise3",
+      "title": "Mobirise 3",
+      "styling": {
+        "primaryColor": "#ffffff",
+        "secondaryColor": "#bfcecb",
+        "successColor": "#90a878",
+        "infoColor": "#7e9b9f",
+        "warningColor": "#f3c649",
+        "dangerColor": "#f28281",
+        "titleFont": "Montserrat",
+        "subtitleFont": "Lora",
+        "textFont": "Raleway",
+        "isRoundedButtons": false,
+        "isAnimatedOnScroll": false,
+        "isScrollToTopButton": true,
+        "isRtl": false
+      },
+      "additionalSetColors": []
+    },
+    "favicon": "@PROJECT_PATH@/assets/images/24seven-60x60-128x130-55-128x130.png",
+    "noImageResize": "",
+    "google-analytics": "<meta name=\"keywords\" content=\"taxi, cab, services, transportation, orlando, florida, airports, hospital, malls, attractions, tourism\" />\r\n\r\n<meta name=\"msvalidate.01\" content=\"A8D8E2BD2CE91EB5AFB3B8C6BC2A26A0\" />\r\n\r\n<script type=\"application/ld+json\">\r\n{\r\n  \"@context\": \"http://schema.org\",\r\n  \"@type\": \"Organization\",\r\n  \"url\": \"http://www.24seven-taxi.com\",\r\n  \"contactPoint\": [{\r\n    \"@type\": \"ContactPoint\",\r\n    \"telephone\": \"+1-321-247-8294\",\r\n    \"contactType\": \"Dispatch\"\r\n  }]\r\n}\r\n</script>\r\n\r\n<script data-version=\"v1\" data-widget-id=\"1f655590-a188-40e3-b3e5-86a9edbf9be1\" id=\"sonar-ping-async-embedder\" type=\"text/javascript\"> (function() { function async_load(){ var s = document.createElement('script'); s.type = 'text/javascript'; s.async = true; var theUrl = '//www.sendsonar.com/assets/send-sonar.js'; s.src = theUrl + ( theUrl.indexOf(\"?\") >= 0 ? \"&\" : \"?\") + 'ref=' + encodeURIComponent(window.location.href); var embedder = document.getElementById('sonar-ping-async-embedder'); embedder.parentNode.insertBefore(s, embedder); } if (window.attachEvent) window.attachEvent('onload', async_load); else window.addEventListener('load', async_load, false); })(); </script>\r\n",
+    "versionFirst": "3.9.0",
+    "uniqCompNum": 63,
+    "versionPublish": "4.3.4",
+    "path": "@PROJECT_PATH@",
+    "cookiesAlert": "",
+    "screenshot": "screenshot.png"
+  },
+  "pages": {
+    "index.html": {
+      "settings": {
+        "main": true,
+        "title": "24Seven Taxi Dispatch Service in Orlando Florida",
+        "meta_descr": "24 Hour Taxi Dispatch Service. We Specialize in Dispatching Taxi Service to the  Airport anywhere near you. Use our taxi cab app to save time in booking your next taxi cab.  Cash, Credit, or Debit Cards accepted.",
+        "header_custom": "",
+        "footer_custom": "",
+        "html_before": ""
+      },
+      "components": [
+        {
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true,
+            "showArrow": true,
+            "contentAlign": "right",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/backgroundimage-2000x1125-85.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#a07e49",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#000",
+            "overlayOpacity": "0.2"
+          },
+          "title": "24 Hour Taxi Service",
+          "text": "<br><br>Taxi Cab Service in Orlando Florida<br><span style=\"font-size: 1.5rem; line-height: 1.5;\"><br></span>Orlando International Airport Taxi<br><span style=\"font-size: 1.5rem; line-height: 1.5;\"><br></span>Taxi near you!",
+          "buttons": "     <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://goo.gl/hNXYrB\" data-toolbar=\"-mbrBtnMove\">Book Now</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://goo.gl/hNXYrB\" data-toolbar=\"-mbrBtnMove\">Call Now</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header1",
+          "_anchor": "header1-1k"
+        },
+        {
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#ffffff"
+            },
+            ".link, .dropdown-item": {
+              "color": "#ffffff"
+            },
+            ".link": {
+              "font-size": "0.75rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "0.812rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#0e0e0e"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#202020!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#282828"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#ffffff",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#ffffff!important"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "menu",
+          "_anchor": "menu-0",
+          "_params": {
+            "logo": true,
+            "showBrand": false,
+            "hideButtons": true,
+            "sticky": true,
+            "collapsed": true,
+            "transparent": true,
+            "bgColor": "#282828",
+            "fontSize": 0.75,
+            "fontName": {},
+            "fontColor": "#ffffff",
+            "fontHoverColor": "@primaryColor"
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/24seven-2-640x128-24-640x128-20.png",
+              "height": 128,
+              "alt": "24Seven Taxi",
+              "link": "http://www.24seven-taxi.com",
+              "title": "24Seven Taxi - 24Hour Taxi Service"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Taxi and Transportation Service</a>",
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://goo.gl/hNXYrB&quot; width=&quot;100%&quot; height=&quot;1000&quot; frameborder=&quot;0&quot; scrolling=&quot;auto&quot;\" target=\"_blank\">Book Now</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact-us.html\">Contact &nbsp;Us</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"booknow.html\">Book Now</a></li>"
+        },
+        {
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "buttons": "    <a data-app-btn=\"true\" class=\"btn btn-warning-outline btn-warning\" href=\"https://goo.gl/hNXYrB\" data-toolbar=\"-mbrBtnMove\">Book Now</a> <a data-app-btn=\"true\" class=\"btn btn-warning-outline btn-warning\" href=\"https://goo.gl/hNXYrB\" data-toolbar=\"-mbrBtnMove\">Call Now</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "buttons1",
+          "_anchor": "buttons1-1j"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            },
+            ".mbr-section-title": {
+              "color": "#28324e"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-i",
+          "_params": {
+            "showMeta": true,
+            "paddingTop": 1,
+            "paddingBottom": "0",
+            "bgColor": "#fff"
+          },
+          "title": "24 Hour Taxi Cab Service",
+          "meta": "24Hour Dispatch (321) 247-9337"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-s",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "<p>Taxi! We offer reliable taxi service in Orlando, Florida. Our&nbsp;<a href=\"https://goo.gl/hNXYrB\" class=\"text-warning\">taxi web app</a> makes it easy &nbsp;and fast too get a taxi for right now, for later, or for both! . It also gives you the freedom to book from anywhere as long as you are connected to the internet given the fact that it is a smart phone app, it's always there when you need it. &nbsp;</p><p><br></p><p>Our <a href=\"https://goo.gl/hNXYrB&quot; width=&quot;100%&quot; height=&quot;1000&quot; frameborder=&quot;0&quot; scrolling=&quot;auto\" class=\"text-warning\">booking page</a> lets you book a taxi the same way as our app but on our website. 24Seven (247, 24/7) Taxi is here to make taking a taxi easier. There is a taxi near you. The nearest taxi will always be dispatched first. Making the taxi arrive faster. Credit cards accepted but not required.</p>",
+          "_styles": {
+            "P": {
+              "color": "#28324e"
+            }
+          }
+        },
+        {
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "buttons": "  <a data-app-btn=\"true\" class=\"btn btn-warning-outline btn-warning\" href=\"https://itunes.apple.com/app/id855068290\" data-toolbar=\"-mbrBtnMove\">App Store</a> <a data-app-btn=\"true\" class=\"btn btn-warning-outline btn-warning\" href=\"https://play.google.com/store/apps/details?id=com.multibrains.taxi.passenger\" data-toolbar=\"-mbrBtnMove\">Google Play</a> <a data-app-btn=\"true\" class=\"btn btn-warning-outline btn-warning\" href=\"https://goo.gl/hNXYrB\" data-toolbar=\"-mbrBtnMove\">Web App</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "buttons1",
+          "_anchor": "buttons1-1o"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content7",
+          "_styles": {
+            "P": {
+              "text-align": "center"
+            }
+          },
+          "_anchor": "content7-j",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text1": "<p>Use our taxi cab app (it's available in your language!).</p><p><br></p><p>To get taxi rates.</p><p><br></p><p>To book a taxi anytime (in a noisy club, in a boardroom meeting, etc.).&nbsp;</p><p><br></p><p>To track your taxi as it comes for you (no guessing where the taxi is!).</p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\"><br></span></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">Also known as Seven Taxi, 24 Taxi, 247 Taxi ,&nbsp;</span><span style=\"font-size: 1.07rem; line-height: 1.5;\">24 7 Taxi, 24 Seven Taxi, or 24/7 Taxi</span><br></p>",
+          "text2": "<p><span style=\"font-size: 1.07rem; line-height: 1.5;\">We are the best taxi cab service in Orlando, Florida.</span><br></p><p><br></p><p>24 Hour Taxi Cab Service</p><p><br></p><p>Everday including Holidays</p><p><br></p><p>It's never too early or too late to book a taxi cab.</p><p><br></p><p>Transportation when you need it.</p><p><br></p><p>Taxi Near You</p><p>Airport Cab Service&nbsp;</p><p>Absolutely the Best Taxi Cab in Orlando, Florida.</p>",
+          "text3": "<p>Call us to check our very reasonable taxi cab rates.</p><p><br></p><p>We are the most reliable taxi cab service in Orlando, Florida.</p><p><br></p><p>We Offer Reliable Airport Taxi Service.</p><p><br></p><p>We are sure you will be happy with our service.</p><p><br></p><p>Check the app for specials and discounts!</p>"
+        },
+        {
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "buttons": "  <a data-app-btn=\"true\" class=\"btn btn-warning-outline btn-warning\" href=\"https://itunes.apple.com/app/id855068290\" data-toolbar=\"-mbrBtnMove\">App Store</a> <a data-app-btn=\"true\" class=\"btn btn-warning-outline btn-warning\" href=\"https://play.google.com/store/apps/details?id=com.multibrains.taxi.passenger\" data-toolbar=\"-mbrBtnMove\">Google Play</a> <a data-app-btn=\"true\" class=\"btn btn-warning-outline btn-warning\" href=\"https://goo.gl/hNXYrB\" data-toolbar=\"-mbrBtnMove\">Web App</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "buttons1",
+          "_anchor": "buttons1-1p"
+        },
+        {
+          "_styles": {
+            ".card-subtitle": {
+              "color": "#bcbcbc"
+            },
+            ".iconbox": {
+              "background-color": "#f2f2f2",
+              "border-color": "#f2f2f2"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "features4",
+          "_anchor": "features4-k",
+          "_params": {
+            "showImages": true,
+            "showTitles": true,
+            "showSubtitles": true,
+            "ShowTexts": true,
+            "showButtons": false,
+            "iconsBgColor": "#f2f2f2",
+            "paddingTop": "0",
+            "paddingBottom": "0",
+            "columns": 3,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "media1": {
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features4",
+              "linkInNewWindow": false,
+              "name": "map",
+              "family": "et-line",
+              "active": true,
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "black"
+            }
+          },
+          "title1": "24 Hour Taxi Service",
+          "subtitle1": "Areas we server...",
+          "caption1": "Taxi Service near you<br>Orlando Taxi Service<br>Kissimmee Taxi Service<br>Poinciana Taxi Service<br>Miami Taxi Service<br>Tampa Taxi Service<br>St Cloud Taxi Service<br>Convention Center Taxi Service<br><br>We work with all cab companies:<br>Yellow Cab, City Cab, Checker Cab, White Cab, Green Cab, Black Cab,Town and Country, Red Top Cab, Pink Cab, $5 Taxi, Dollar Cab, 10/10 Taxi, Super Shuttle, Sun Taxi, Uber, Lyft, Welcome Car Service, Airport Taxi, One Call Taxi, Cash Cab, Cash Taxi, Dollar Taxi, Willys<br><br>",
+          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media2": {
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features4",
+              "linkInNewWindow": false,
+              "name": "tripadvisor",
+              "family": "socicon",
+              "active": true,
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "black"
+            }
+          },
+          "title2": "Places to see and Things to do",
+          "subtitle2": "Get out and Explore!",
+          "caption2": "Amusement Parks, Theme Parks<br><br>Concerts, Events, Festivals, Rodeos<br><br>MegaCon, WWE, Conventions<br><br>Dining<br><br>Outlet Malls, Shopping Centers, Shopping Malls<br><br>Schools, Universities, Colleges<br><br>Large Group Shuttle Service",
+          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media3": {
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features4",
+              "linkInNewWindow": false,
+              "name": "global",
+              "family": "et-line",
+              "active": true,
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "black"
+            }
+          },
+          "title3": "Taking a Trip?",
+          "subtitle3": "Airports, Cruise Terminals, Train Stations",
+          "caption3": "International Airport<br>Regional Airport<br>Executive Airport<br><br>Cruise Port<br><br>Train Station<br><br>Bus Terminal<br><br>Helicopter Sightseeing<br><br>Sky Diving Airports",
+          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media4": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-features4",
+              "name": "linegraph",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "black",
+              "family": "et-line"
+            }
+          },
+          "title4": "Unlimited Sites",
+          "subtitle4": "Mobirise gives you the freedom to develop",
+          "caption4": "Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.",
+          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media5": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-features4",
+              "name": "briefcase",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "black",
+              "family": "et-line"
+            }
+          },
+          "title5": "Trendy Website Blocks",
+          "subtitle5": "Choose from the large selection of blocks",
+          "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media6": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-features4",
+              "name": "linegraph",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "black",
+              "family": "et-line"
+            }
+          },
+          "title6": "Host Anywhere",
+          "subtitle6": "Don't limit yourself to just one platform",
+          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
+          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>"
+        },
+        {
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "buttons": "  <a data-app-btn=\"true\" class=\"btn btn-warning-outline btn-warning\" href=\"https://itunes.apple.com/app/id855068290\" data-toolbar=\"-mbrBtnMove\">App Store</a> <a data-app-btn=\"true\" class=\"btn btn-warning-outline btn-warning\" href=\"https://play.google.com/store/apps/details?id=com.multibrains.taxi.passenger\" data-toolbar=\"-mbrBtnMove\">Google Play</a> <a data-app-btn=\"true\" class=\"btn btn-warning-outline btn-warning\" href=\"https://goo.gl/hNXYrB\" data-toolbar=\"-mbrBtnMove\">Web App</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "buttons1",
+          "_anchor": "buttons1-1q"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts3",
+          "_anchor": "contacts3-c",
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#2e2e2e",
+            "overlay": true,
+            "overlayColor": "#3C3C3C",
+            "overlayOpacity": 0.8
+          },
+          "logo": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/24seven-60x60-265x269-95.png",
+              "class": "card-img-top",
+              "width": 265,
+              "active": true,
+              "link": "#",
+              "alt": "24Seven Taxi Logo",
+              "title": "24Seven Taxi Logo",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-logo-contacts3",
+              "link": "",
+              "size": 0
+            }
+          },
+          "text1": "Premier Taxi Service<br>24 Hours a Day<br>Every Day<br>",
+          "media1": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont-company-contacts3",
+              "name": "phone",
+              "size": 0,
+              "family": "et-line"
+            }
+          },
+          "text2": "<span style=\"font-size: 0.875rem; line-height: 1.6;\">Customer Support</span><br><span style=\"font-size: 0.875rem; line-height: 1.6;\">+1 (321) 247-9337</span><br>",
+          "media2": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont-company-contacts3",
+              "name": "map-pin",
+              "size": 0,
+              "family": "et-line"
+            }
+          },
+          "text3": "8131 Vineland Ave<br>Orlando, FL 32821",
+          "media3": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont-company-contacts3",
+              "name": "envelope",
+              "size": 0,
+              "family": "et-line"
+            }
+          },
+          "text4": "<p><a href=\"mailto:info@24seven-taxi.com\">info@24seven-taxi.com</a><a href=\"mailto:info@poinciana-taxi.com\"></a><a href=\"mailto:info@24seven-taxi.com\"></a><a href=\"mailto:info@poinciana-taxi.com\"></a><a href=\"mailto:info@24seven-taxi.com\"></a><a href=\"mailto:support@24seven-taxi.com\"></a><a href=\"mailto:support@mobirise.com\"></a></p>",
+          "title1": "Categories",
+          "text5": "<li><a href=\"https://goo.gl/hNXYrB\">Book Now</a>&nbsp;- Online Web App</li><li><a href=\"https://itunes.apple.com/app/id855068290\">App Store</a>&nbsp;- for use on Apple Products</li><li><a href=\"https://play.google.com/store/apps/details?id=com.multibrains.taxi.passenger\">Google Play</a>&nbsp;- for use on Android Products</li><li><a href=\"tel:13212479337\">Call Now</a>&nbsp;- 24Hours Everyday</li><li><a href=\"http://driverapp.us\">Taxi Drivers Wanted</a>&nbsp;- Opportunities</li>",
+          "text6": "<strong>Contacts</strong><br>Email: info@24seven-taxi.com<br>Customer Support: +1 (321) 247-9337<br>Fax: +1 (407) 530-0661<br><br><br><strong>MailingAddress</strong><br>Orlando Location<br>8131 Vineland Ave<br>Orlando, FL 32821",
+          "form": {
+            "title": "MESSAGE",
+            "action": "mel24seven@gmail.com",
+            "alerts": {
+              "success": "Thanks for filling out form!"
+            },
+            "fields": {
+              "name": {
+                "title": "Name",
+                "visible": true,
+                "customTitle": "Name*"
+              },
+              "email": {
+                "title": "Email",
+                "visible": true,
+                "customTitle": "Email*"
+              },
+              "phone": {
+                "title": "Phone",
+                "visible": true,
+                "customTitle": "Phone"
+              },
+              "message": {
+                "title": "Message",
+                "customTitle": "Message"
+              }
+            }
+          },
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-black\">Contact us</a>"
+        }
+      ]
+    },
+    "pickmeapp.html": {
+      "settings": {
+        "title": "Passenger Taxi App",
+        "meta_descr": "24 Hour Taxi Dispatch Service. We Specialize in Dispatching Taxi Service to the  Airport anywhere near you. Use our taxi cab app to save time in booking your next taxi cab.  Credit cards are accepted but not required.",
+        "header_custom": "",
+        "footer_custom": "",
+        "html_before": ""
+      },
+      "components": [
+        {
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#ffffff"
+            },
+            ".link, .dropdown-item": {
+              "color": "#ffffff"
+            },
+            ".link": {
+              "font-size": "0.75rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "0.812rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#0e0e0e"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#202020!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#282828"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#ffffff",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#c0a375!important"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "menu",
+          "_anchor": "menu-2",
+          "_params": {
+            "logo": true,
+            "showBrand": false,
+            "hideButtons": true,
+            "sticky": true,
+            "collapsed": true,
+            "transparent": true,
+            "bgColor": "#282828",
+            "fontSize": 0.75,
+            "fontName": {},
+            "fontColor": "#ffffff",
+            "fontHoverColor": "@primaryColor"
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/24seven-2-640x128-24-640x128-20.png",
+              "height": 128,
+              "alt": "24Seven Taxi",
+              "link": "http://www.24seven-taxi.com",
+              "title": "24Seven Taxi - 24Hour Taxi Service",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Taxi and Transportation Service</a>",
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://goo.gl/hNXYrB&quot; width=&quot;100%&quot; height=&quot;1000&quot; frameborder=&quot;0&quot; scrolling=&quot;auto&quot;\" target=\"_blank\">Book Now</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact-us.html\">Contact &nbsp;Us</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"booknow.html\">Book Now</a></li>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header1",
+          "_anchor": "header1-3",
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true,
+            "showArrow": true,
+            "contentAlign": "right",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/backgroundimage-2000x1125-97.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#a07e49",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#000",
+            "overlayOpacity": "0.4"
+          },
+          "title": "You will love our App",
+          "text": "<br>it's fast and easy to use...<br><br><span style=\"font-size: 1.5rem; line-height: 1.5;\">Credit cards and Debit Cards accepted...</span><br><span style=\"font-size: 1.5rem; line-height: 1.5;\"><br></span>You can book as many trips as you like...<br><br>Get our lowest fares by using the app...<br><br>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"http://bit.ly/TaxiCallerAndroid\" data-toolbar=\"-mbrBtnMove\"><span class=\"socicon socicon-android mbr-iconfont mbr-iconfont-btn\"></span>TaxiCaller for Android</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"http://bit.ly/TaxiCaller\" data-toolbar=\"-mbrBtnMove\"><span class=\"socicon socicon-apple mbr-iconfont mbr-iconfont-btn\"></span>TaxiCaller for iOS</a>"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-o",
+          "_params": {
+            "showMeta": true,
+            "paddingTop": 1,
+            "paddingBottom": "0",
+            "bgColor": "#fff"
+          },
+          "title": "Always on Duty",
+          "meta": "Give us a call anytime..."
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-p",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "<p>Our app allows you to hail a the closest cab to your location or you can hail a cab for someone else at a different location. Just enter or move the pointer to where you want to be picked up. Enter a destination and you will get a price quote. Select from many types of vehicles that range from economy (Uber Priced with no surge pricing), classic taxi, business, luxury, even a moving truck and courier service.</p><p><br></p><p>All our drivers are background checked and driving record checked. We only contract the best drivers so rest assured that you will be transported by a professional driver that is commercially insured and permitted where required by law.</p>"
+        }
+      ]
+    },
+    "driverapp.html": {
+      "settings": {
+        "title": "Taxi Cab Driver App",
+        "meta_descr": "Taxi Drivers Wanted. Download our App and start making money. Taxi service near you. Work when you want. Fully Automated Taxi Dispatch.",
+        "header_custom": "",
+        "footer_custom": "",
+        "html_before": ""
+      },
+      "components": [
+        {
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#ffffff"
+            },
+            ".link, .dropdown-item": {
+              "color": "#ffffff"
+            },
+            ".link": {
+              "font-size": "0.75rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "0.812rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#0e0e0e"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#202020!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#282828"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#ffffff",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#c0a375!important"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "menu",
+          "_anchor": "menu-4",
+          "_params": {
+            "logo": true,
+            "showBrand": false,
+            "hideButtons": true,
+            "sticky": true,
+            "collapsed": true,
+            "transparent": true,
+            "bgColor": "#282828",
+            "fontSize": 0.75,
+            "fontName": {},
+            "fontColor": "#ffffff",
+            "fontHoverColor": "@primaryColor"
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/24seven-2-640x128-24-640x128-20.png",
+              "height": 128,
+              "alt": "24Seven Taxi",
+              "link": "http://www.24seven-taxi.com",
+              "title": "24Seven Taxi - 24Hour Taxi Service",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Taxi and Transportation Service</a>",
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://goo.gl/hNXYrB&quot; width=&quot;100%&quot; height=&quot;1000&quot; frameborder=&quot;0&quot; scrolling=&quot;auto&quot;\" target=\"_blank\">Book Now</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact-us.html\">Contact &nbsp;Us</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"booknow.html\">Book Now</a></li>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header1",
+          "_anchor": "header1-5",
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false,
+            "showArrow": true,
+            "contentAlign": "right",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/backgroundimage-2000x1125-97.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#a07e49",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#000",
+            "overlayOpacity": 0.5
+          },
+          "title": "Drive For Us...",
+          "text": "<br>When you are happy our customers are happy...<span style=\"font-size: 1.5rem; line-height: 1.5;\"><br></span><br><span style=\"font-size: 1.5rem; line-height: 1.5;\">With your help we will become the best taxi company in the world!!!</span><br><br>Call us for more information 321-315-6060",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"http://bit.ly/Android-Driver\" data-toolbar=\"-mbrBtnMove\"><span class=\"socicon socicon-android mbr-iconfont mbr-iconfont-btn\"></span>DriverApp for Android</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"http://bit.ly/iOS-Driver\" data-toolbar=\"-mbrBtnMove\"><span class=\"socicon socicon-apple mbr-iconfont mbr-iconfont-btn\"></span>DriverApp for iOS</a>"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-q",
+          "_params": {
+            "showMeta": true,
+            "paddingTop": 1,
+            "paddingBottom": "0",
+            "bgColor": "#fff"
+          },
+          "title": "We Are Hiring",
+          "meta": "Apply Directly From The App"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_styles": {
+            "P": {
+              "text-align": "center"
+            }
+          },
+          "_anchor": "content1-r",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "<p>You will love our Driver App,</p><p>It's very easy to use.</p><p><br></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">You can work when you want, </span></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">no set schedule required.</span></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\"><br></span></p><p>No paychecks, </p><p>you get paid directly by the customer.</p><p><br></p><p>Work in the area that you want.,</p><p>No need to stand in Taxi lines.</p><p><br></p><p>No hidden fees,</p><p><br></p><p>Easy to start and easy to make money.</p><p><br></p><p>Get $1000 in free credit card processing,</p><p> code: <a href=\"https://squareup.com/i/5ED3712B\">https://squareup.com/i/5ED3712B</a></p><p><br></p><p>We only hire Owner Operators.</p><p><br></p><p>It's okay to use any Taxi Company vehicle.</p><p><br></p><p>We can give you extra work that is close by.</p><p><br></p><p>Taxi Insurance and Taxi Permits,</p><p> where required are required.</p><p><br></p>"
+        }
+      ]
+    },
+    "contact-us.html": {
+      "settings": {
+        "title": "Contact 24Seven Taxi",
+        "meta_descr": "Contact 24Seven Taxi. 24 Hour Taxi Service serving Orlando. We are the nearest taxi. 24/7 Taxi Sevice.",
+        "header_custom": "",
+        "footer_custom": "",
+        "html_before": ""
+      },
+      "components": [
+        {
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#ffffff"
+            },
+            ".link, .dropdown-item": {
+              "color": "#ffffff"
+            },
+            ".link": {
+              "font-size": "0.75rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "0.812rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#0e0e0e"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#202020!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#282828"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#ffffff",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#c0a375!important"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "menu",
+          "_anchor": "menu-y",
+          "_params": {
+            "logo": true,
+            "showBrand": false,
+            "hideButtons": true,
+            "sticky": true,
+            "collapsed": true,
+            "transparent": true,
+            "bgColor": "#282828",
+            "fontSize": 0.75,
+            "fontName": {},
+            "fontColor": "#ffffff",
+            "fontHoverColor": "@primaryColor"
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/24seven-2-640x128-24-640x128-20.png",
+              "height": 128,
+              "alt": "24Seven Taxi",
+              "link": "http://www.24seven-taxi.com",
+              "title": "24Seven Taxi - 24Hour Taxi Service",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Taxi and Transportation Service</a>",
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://goo.gl/hNXYrB&quot; width=&quot;100%&quot; height=&quot;1000&quot; frameborder=&quot;0&quot; scrolling=&quot;auto&quot;\" target=\"_blank\">Book Now</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact-us.html\">Contact &nbsp;Us</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"booknow.html\">Book Now</a></li>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "form1",
+          "_styles": {
+            ".form-control-label": {
+              "color": "#ffffff"
+            },
+            "SMALL": {
+              "color": "#ffffff"
+            },
+            ".mbr-section-title": {
+              "color": "#ffffff"
+            }
+          },
+          "_anchor": "form1-12",
+          "_params": {
+            "showTitle": true,
+            "showSubTitle": true,
+            "labelsColor": "#ffffff",
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/backgroundimage-2000x1125-2000x1125.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#fff",
+            "overlay": true,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "CONTACT US",
+          "subtitle": "We welcome all questions, feedback, and concerns.",
+          "form": {
+            "action": "melmontoya@msn.com",
+            "alerts": {
+              "success": "Thanks for filling out form!"
+            },
+            "fields": {
+              "name": {
+                "title": "Name",
+                "visible": true,
+                "customTitle": "Name*"
+              },
+              "email": {
+                "title": "Email",
+                "visible": true,
+                "customTitle": "Email*"
+              },
+              "phone": {
+                "title": "Phone",
+                "visible": true,
+                "customTitle": "Phone"
+              },
+              "message": {
+                "title": "Message",
+                "customTitle": "Message"
+              }
+            }
+          },
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\">CONTACT US</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts2",
+          "_anchor": "contacts2-14",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#2e2e2e",
+            "overlay": true,
+            "overlayColor": "#3C3C3C",
+            "overlayOpacity": 0.8,
+            "googleMap": {
+              "address": "620 Muskrat Drive\nPoinciana, FL 34759",
+              "placeId": "ChIJZ3nZEIae3YgRnHp4ucgxoo8",
+              "state": "ok",
+              "stateDetails": ""
+            }
+          },
+          "text1": "<strong>Address</strong><br>\n620 Muskrat Dr<br>\nPoinciana, FL 34759<br><br><br>\n<strong>Contacts</strong><br>\nEmail: support@poinciana-taxi.com<br>\nPhone: +1 (407) 502 5333<br>\nFax: +1 (407) 476 1172",
+          "text2": "<strong>Links</strong><ul><li><a href=\"https://mobirise.com/\">Book Now</a></li><li><a href=\"#\">Taxi Drivers Wanted</a><a class=\"text-white\" href=\"https://mobirise.com/mobirise-free-win.zip\"></a></li><li><a href=\"https://mobirise.com/mobirise-free-mac.zip\">Contact Us</a></li></ul>"
+        }
+      ]
+    },
+    "airports.html": {
+      "settings": {
+        "title": "Taxi Service to Florida Airports including Orlando, Miami, Tampa, and Jacksonville.",
+        "meta_descr": "The Most Reliable Taxi Service to Airports in Orlando, Miami, Tampa, or Jacksonville."
+      },
+      "components": [
+        {
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#ffffff"
+            },
+            ".link, .dropdown-item": {
+              "color": "#ffffff"
+            },
+            ".link": {
+              "font-size": "0.75rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "0.812rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#0e0e0e"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#202020!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#282828"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#ffffff",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#c0a375!important"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "menu",
+          "_anchor": "menu-19",
+          "_params": {
+            "logo": true,
+            "showBrand": false,
+            "hideButtons": true,
+            "sticky": true,
+            "collapsed": true,
+            "transparent": true,
+            "bgColor": "#282828",
+            "fontSize": 0.75,
+            "fontName": {},
+            "fontColor": "#ffffff",
+            "fontHoverColor": "@primaryColor"
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/24seven-2-640x128-24-640x128-20.png",
+              "height": 128,
+              "alt": "24Seven Taxi",
+              "link": "http://www.24seven-taxi.com",
+              "title": "24Seven Taxi - 24Hour Taxi Service",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Taxi and Transportation Service</a>",
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://goo.gl/hNXYrB&quot; width=&quot;100%&quot; height=&quot;1000&quot; frameborder=&quot;0&quot; scrolling=&quot;auto&quot;\" target=\"_blank\">Book Now</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact-us.html\">Contact &nbsp;Us</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"booknow.html\">Book Now</a></li>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header1",
+          "_styles": {
+            ".mbr-section-title": {
+              "text-align": "center"
+            }
+          },
+          "_anchor": "header1-1b",
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true,
+            "showArrow": true,
+            "contentAlign": "right",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/backgroundimage-2000x1125-852.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#a07e49",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#000",
+            "overlayOpacity": "0.4"
+          },
+          "title": "24 Hour &nbsp;Airport Taxi Service",
+          "text": "<br><br>Airport Taxi Cab Service<br><span style=\"font-size: 1.5rem; line-height: 1.5;\"><br></span>Airport Rides and &nbsp;PickUps",
+          "buttons": "  <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"tel:13212479337\" data-toolbar=\"-mbrBtnMove\">Call Us Now</a> "
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "buttons1",
+          "_anchor": "buttons1-1c",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "buttons": "  <a data-app-btn=\"true\" class=\"btn btn-warning-outline btn-warning\" href=\"http://bit.ly/PickMeApp-iOS\" data-toolbar=\"-mbrBtnMove\">PickMeApp for iOS</a> <a data-app-btn=\"true\" class=\"btn btn-warning-outline btn-warning\" href=\"http://bit.ly/PickMeApp-Android\" data-toolbar=\"-mbrBtnMove\">PickMeApp for Android</a>"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-1e",
+          "_params": {
+            "showMeta": true,
+            "paddingTop": 1,
+            "paddingBottom": "0",
+            "bgColor": "#fff"
+          },
+          "title": "24 Hour Airport Taxi Cab Service",
+          "meta": "Click to call our dispatch call center <a href=\"tel:13212479337\">(321) 247-9337</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-1f",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "<p>24Seven Airport Taxi is the most trusted airport taxi service in Orlando, FL. Choose from our wide selection of vehicles including sedans, minivans, and SUVs, ready to serve you and your guests anywhere within the city.</p><p><br></p><p>Our <a href=\"https://webdesk.taxistartup.com/\">booking page</a> lets you book a taxi the same way as our app but on our website. 24Seven (247, 24/7) Taxi is here to make taking a taxi easier. We are your prefered taxi service nearest to you. The nearest taxi will always be dispatched first. Making the taxi arrive faster. Credit cards accepted but not required.</p><p><br></p><p>All reservations can be confirmed with credit card or debit card.</p>"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-1h",
+          "_params": {
+            "showMeta": true,
+            "paddingTop": 1,
+            "paddingBottom": "0",
+            "bgColor": "#fff"
+          },
+          "title": "Airports we Serve",
+          "meta": "Click to call our dispatch call center <a href=\"tel:13212478294\">(321) 247-9337</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content7",
+          "_styles": {
+            "P": {
+              "text-align": "center"
+            },
+            "H3": {
+              "text-align": "center"
+            }
+          },
+          "_anchor": "content7-1g",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text1": "<h3>Orlando</h3><p>Orlando International Airport (MCO)</p><p>Requires 24hour Advanced Reservations</p><p><br></p><p>Orlando Sanford International Airport (SFB)</p><p>Requires 24hour Advanced Reservations</p><p><br></p><p>Kissimmee Gateway Airport (KSM)</p><p>Requires 24hour Advanced Reservations</p>",
+          "text2": "<h3>Miami</h3><p>Miami International Airport (MIA)</p><p>Requires 24hour Advanced Reservations</p>",
+          "text3": "<h3>Tampa</h3><p>Tampa International Airport (TPA)</p><p>Requires 24hour Advanced Reservations</p>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts3",
+          "_anchor": "contacts3-1a",
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#2e2e2e",
+            "overlay": true,
+            "overlayColor": "#3C3C3C",
+            "overlayOpacity": 0.8
+          },
+          "logo": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/24seven-60x60-265x269-95.png",
+              "class": "card-img-top",
+              "width": 265,
+              "active": true,
+              "link": "#",
+              "alt": "24Seven Taxi Logo",
+              "title": "24Seven Taxi Logo",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-logo-contacts3",
+              "link": "",
+              "size": 0
+            }
+          },
+          "text1": "Premier Taxi Service<br>24 Hours a Day<br>Every Day<br>",
+          "media1": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont-company-contacts3",
+              "name": "phone",
+              "size": 0,
+              "family": "et-line"
+            }
+          },
+          "text2": "<span style=\"font-size: 0.875rem; line-height: 1.6;\">Customer Support</span><br><span style=\"font-size: 0.875rem; line-height: 1.6;\">+1 (321) 247-9337</span><br>",
+          "media2": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont-company-contacts3",
+              "name": "map-pin",
+              "size": 0,
+              "family": "et-line"
+            }
+          },
+          "text3": "8131 Vineland Ave<br>Orlando, FL 32821",
+          "media3": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont-company-contacts3",
+              "name": "envelope",
+              "size": 0,
+              "family": "et-line"
+            }
+          },
+          "text4": "<p><a href=\"mailto:info@24seven-taxi.com\">info@24seven-taxi.com</a><a href=\"mailto:info@poinciana-taxi.com\"></a><a href=\"mailto:info@24seven-taxi.com\"></a><a href=\"mailto:info@poinciana-taxi.com\"></a><a href=\"mailto:info@24seven-taxi.com\"></a><a href=\"mailto:support@24seven-taxi.com\"></a><a href=\"mailto:support@mobirise.com\"></a></p>",
+          "title1": "Categories",
+          "text5": "<li><a href=\"https://goo.gl/hNXYrB\">Book Now</a>&nbsp;- Online Web App</li><li><a href=\"https://itunes.apple.com/app/id855068290\">App Store</a>&nbsp;- for use on Apple Products</li><li><a href=\"https://play.google.com/store/apps/details?id=com.multibrains.taxi.passenger\">Google Play</a>&nbsp;- for use on Android Products</li><li><a href=\"tel:13212479337\">Call Now</a>&nbsp;- 24Hours Everyday</li><li><a href=\"http://driverapp.us\">Taxi Drivers Wanted</a>&nbsp;- Opportunities</li>",
+          "text6": "<strong>Contacts</strong><br>Email: info@24seven-taxi.com<br>Customer Support: +1 (321) 247-9337<br>Fax: +1 (407) 530-0661<br><br><br><strong>MailingAddress</strong><br>Orlando Location<br>8131 Vineland Ave<br>Orlando, FL 32821",
+          "form": {
+            "title": "MESSAGE",
+            "action": "melmontoya@msn.com",
+            "alerts": {
+              "success": "Thanks for filling out form!"
+            },
+            "fields": {
+              "name": {
+                "title": "Name",
+                "visible": false,
+                "customTitle": "Name*"
+              },
+              "email": {
+                "title": "Email",
+                "visible": true,
+                "customTitle": "Email*"
+              },
+              "phone": {
+                "title": "Phone",
+                "visible": false,
+                "customTitle": "Phone"
+              },
+              "message": {
+                "title": "Message",
+                "customTitle": "Message"
+              }
+            }
+          },
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-black\">Contact us</a>"
+        }
+      ]
+    }
+  }
+}
